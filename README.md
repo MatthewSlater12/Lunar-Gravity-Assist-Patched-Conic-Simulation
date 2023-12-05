@@ -16,4 +16,4 @@ To operate the simulation MATLAB version R2022b will be needed
 2. Ensuere file pathways allow the main propogator to be able to access the support functions
 3. Run main propogator file comments within the file outline operation to generate data and graphs for each launch site
 
-Importent data generated is the Transfer time for the Anti-planet assist and planet assist shown as Transfer_TimeS and Transfer_TimeL respectively aswell as the delta V needed to complete the mission for both assist types shown as SDV_1 and LDV_1 for the TLI burn and SDV_2 and LDV_2 for the geostatinary circularisation burn with the mission totals as L and S DV_T.
+Importent data generated is the Transfer time for the Anti-planet assist and planet assist shown as Transfer_TimeS and Transfer_TimeL respectively aswell as the delta V needed to complete the mission for both assist types shown as SDV_1 and LDV_1 for the TLI burn and SDV_2 and LDV_2 for the geostationary circularisation burn with the mission totals as L and S DV_T.
