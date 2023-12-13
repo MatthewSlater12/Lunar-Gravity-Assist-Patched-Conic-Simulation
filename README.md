@@ -1,5 +1,5 @@
 # Lunar-Gravity-Assist-Patched-Conic-Simulation
-Hi Im Matthew Slater a recent graduate in space engineering this is a reposatory for previous projects done at university and to be used as part of a job application. This repo contains the MATLAB code used as part of my masters using a novel patched conics approximation method the V infinity Sphere to look at earth-earth lunar gravity assists
+This repo contains the MATLAB code used as part of my masters using a novel patched conics approximation method the V infinity Sphere to look at earth-earth lunar gravity assists
 
 The aim of this project was to analyse the use for Lunar gravity assists to transfer satalllites from inital earth orbits avalable when launching from proposed sites in the UK to a Geostationary Orbit. This was done useing the patched conics approximation and a set of equations called the "V infinity sphere" to plan and asses the specific parameters needed for a lunar gravity assists to move from a intercept orbit to a targit orbit with a perigee at geostationary altitude and zero degrees inclination. Then using the vector difference between the orbits used the delta V needed to exicute a mission plan is calculated to be compared to transfer methods not using lunar gravity assists and asses the phesability of such a lunar assist mission.
 
