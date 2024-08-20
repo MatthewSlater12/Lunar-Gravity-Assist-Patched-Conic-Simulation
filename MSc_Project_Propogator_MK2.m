@@ -5,7 +5,7 @@ clear; clc; close all
 SiteSelect = 3;
 
 if SiteSelect == 1
-    SIMV = [3000, 300, 83, 77, 147, 3951, 1049];
+    SIMV = [300, 300, 83, 77, 147, 3951, 1049];
     STitle = 'Sutherland';
 elseif SiteSelect == 2
     SIMV = [230, 230, 70, 33, 50, 3852, 1150];
